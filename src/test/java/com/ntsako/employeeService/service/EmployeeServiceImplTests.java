@@ -72,10 +72,6 @@ public class EmployeeServiceImplTests {
 	    employeeDto1.setLastName("Mnisi");
 	    employeeDto1.setEmail("andz@gmail.com");
 	}
-	
-	@Test
-	void contextLoads() {
-	}
 
     @Test
     public void testCreateEmployee() {

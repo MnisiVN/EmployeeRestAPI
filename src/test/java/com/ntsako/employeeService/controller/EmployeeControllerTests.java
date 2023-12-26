@@ -53,10 +53,6 @@ class EmployeeControllerTests {
 	}
 	
 	@Test
-	void contextLoads() {
-	}
-	
-	@Test
     public void testCreateEmployee() {
 
         when(employeeService.createEmployee(employee)).thenReturn(employee);
