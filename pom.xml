@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ntsako</groupId>
-	<artifactId>EmployeeRestAPI</artifactId>
+	<artifactId>docker-compose</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EmployeeRestAPI</name>
-	<description>Employee Rest API</description>
+	<name>docker-compose</name>
+	<description>docker compose deployment</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
